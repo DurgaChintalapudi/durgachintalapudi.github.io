@@ -205,10 +205,10 @@
                                     <div class="divider-custom">
                                     </div>
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting:</b>Python, Shell Scripting, Powershell<br /><b>Backend Frameworks:</b>Spring MVC, Spring Boot, ASP .NET MVC, NodeJS<br /> 
-                                        <b>Data Layer:</b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
-                                        <b>Other Tools/Frameworks:</b>IBM MQ, AMQ,Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
-<p class="mb-4"><b>Certifications:</b><br /> <br />AWS Certified Solutions Architect Associate.<br />IT Automation Professional Certificate with Python, Google.<br />Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />Java SE 8 Certified Programmer, Oracle.<br /></p>
+                                    <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting: </b>Python, Shell Scripting, Powershell<br /><b>Backend Frameworks: </b>Spring MVC, Spring Boot, ASP.NET MVC, NodeJS<br /> 
+                                        <b>Data Layer: </b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
+                                        <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
+<p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -236,7 +236,7 @@
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4"><b>Leadership</b><br />
+                                    <p class="mb-4"><b>Leadership:</b><br />
 •   Cabinet Member, Communication Club, Duke Engineering Master’s Program Student Club, 2022.<br/>
 •   Strategy Consultant, Rad AI, 2022.<br/>
 •   Executive Board Member, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
