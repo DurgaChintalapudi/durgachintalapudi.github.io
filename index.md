@@ -6,7 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title></title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -88,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Leadership/Achievements</p>
+                            <p><b>Leadership/Achievements</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/achievements.png" alt="..." />
                         </div>
                     </div>
@@ -98,7 +97,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Experience</p>
+                            <p><b>Experience</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/experience.png" alt="..." />
                         </div>
                     </div>
@@ -108,7 +107,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Education</p>
+                            <p><b>Education</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/education.png" alt="..." />
                         </div>
                     </div>
@@ -139,13 +138,6 @@
                 <div class="row">
                     <div class="col-lg-4 ms-auto"><p class="lead">Hello and Welcome to My Page! To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. It had been my pleasure working with clients across the globe while working on Loyalty and Offers applications at Visa. I believe in Customer-centric and Collaborative approaches.</p></div>
                     <div class="col-lg-4 me-auto"><p class="lead">Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
-                </div>
-                <!-- About Section Button-->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download me-2"></i>
-                        Free Download!
-                    </a>
                 </div>
             </div>
         </section>
@@ -228,35 +220,32 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Location</h4>
                         <p class="lead mb-0">
-                            2215 John Daniel Drive
+                            Durham
                             <br />
-                            Clark, MO 65243
+                            NC 27705
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Around the Web</h4>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
+<!--                         <h4 class="text-uppercase mb-4">Around the Web</h4> -->
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">About Freelancer</h4>
+<!--                         <h4 class="text-uppercase mb-4">About Freelancer</h4>
                         <p class="lead mb-0">
                             Freelance is a free to use, MIT licensed Bootstrap theme created by
                             <a href="http://startbootstrap.com">Start Bootstrap</a>
                             .
-                        </p>
+                        </p> -->
                     </div>
                 </div>
             </div>
         </footer>
         <!-- Copyright Section-->
-        <div class="copyright py-4 text-center text-white">
+<!--         <div class="copyright py-4 text-center text-white">
             <div class="container"><small>Copyright &copy; Your Website 2022</small></div>
-        </div>
+        </div> -->
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
