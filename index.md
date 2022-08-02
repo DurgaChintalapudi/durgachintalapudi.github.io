@@ -27,8 +27,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -51,6 +51,24 @@
                 <p class="masthead-subheading font-weight-light mb-0">Graduate Student at Duke University</p>
             </div>
         </header>
+                <!-- About Section-->
+        <section class="page-section bg-primary text-white mb-0" id="about">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <!-- Icon Divider-->
+<!--                 <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div> -->
+<!--                 </div> -->
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="col-lg-4 ms-auto"><p>Hello and Welcome to My Page! <br />To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. </p></div>
+                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
+                </div>
+            </div>
+        </section>
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
@@ -123,24 +141,7 @@
                 </div>
             </div>
         </section>
-        <!-- About Section-->
-        <section class="page-section bg-primary text-white mb-0" id="about">
-            <div class="container">
-                <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
-                <!-- Icon Divider-->
-<!--                 <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div> -->
-<!--                 </div> -->
-                <!-- About Section Content-->
-                <div class="row">
-                    <div class="col-lg-4 ms-auto"><p>Hello and Welcome to My Page! <br />To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. </p></div>
-                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
-                </div>
-            </div>
-        </section>
+
         <!-- Contact Section-->
         <section class="page-section" id="contact">
             <div class="container">
