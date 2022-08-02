@@ -245,8 +245,9 @@
 <p class="mb-4"><b>Academics/Technical:</b><br />
 •   Academic Excellence Award, JNTU Hyderabad, 2016.<br/>
 •   ACM International Collegiate Programming Contest, National Level Finalist in India, 2016.<br/>
-•   Gold Medal, Competitive Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
-•   Best Project Award (CubeSat Satellite Project), Engineering Staff College of India, 2016. <br/>
+•   Gold Medal, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
+•   Best Project Award (CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
+•   Merit Award, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
 •   Second Place, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
 •   Third Position, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
 •   Bronze Medal - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
