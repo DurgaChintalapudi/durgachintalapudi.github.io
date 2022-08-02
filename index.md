@@ -45,7 +45,7 @@
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+<!--                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div> -->
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
@@ -71,7 +71,8 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                            <p>Projects</p>
+<!--                             <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." /> -->
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -80,7 +81,8 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+<!--                             <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." /> -->
+                            <p>Skills/Certifications</p>
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -89,7 +91,8 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+<!--                             <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." /> -->
+                            <p>Leadership/Achievements</p>
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -98,7 +101,8 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <p>Experience</p>
+<!--                             <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." /> -->
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -107,18 +111,19 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+<!--                             <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." /> -->
+                            <p>Education</p>
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
-                    <div class="col-md-6 col-lg-4">
+<!--                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -135,8 +140,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">Hello and Welcome to My Page! To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. It had been my pleasure working with clients across the globe while working on Loyalty and Offers applications at Visa. I believe in Customer-centric and Collaborative approaches.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
