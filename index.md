@@ -178,7 +178,7 @@
 <!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">
-Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning: Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models, Implementing ML algorithms to capture sequential network traffic information</p>
+<b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b> <br />.Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -225,7 +225,7 @@ Defence against Network Intrusion for Secured Cloud Computing through Ensemble L
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
                     <div class="modal-body text-center pb-5">
                         <div class="container">
-                            <div class="row justify-content-center">
+                            <div class="row">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2>
@@ -234,17 +234,18 @@ Defence against Network Intrusion for Secured Cloud Computing through Ensemble L
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">
-•   Social Media Marketing Manager, Duke Engineering Master’s Program Student Club, 2022.<br/>
-•   Product Management Consultant, Rad AI, 2022.<br/>
+                                    <p class="mb-4"><b>Leadership</b><br />
+•   Cabinet Member, Communication Club, Duke Engineering Master’s Program Student Club, 2022.<br/>
+•   Strategy Consultant, Rad AI, 2022.<br/>
 •   Executive Board Member, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •   Lead, Literary Club, GNITS Hyderabad, 2016.<br/>
-•   Coordinator, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
+•   Coordinator, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/></p>
+<p class="mb-4"><b>Academics/Technical:</b><br />
 •   Academic Excellence Award, JNTU Hyderabad, 2016.<br/>
-•   Gold Medal, Competitive Coding Competition, Indian Society for Technical Education Hyderabad’s Student Chapter, 2016.<br/>
-•   Best Project Award for CubeSat Satellite Project, Engineering Staff College of India, 2016. <br/>
 •   ACM International Collegiate Programming Contest, National Level Finalist in India, 2016.<br/>
-•   Second Place, Code Jam Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
+•   Gold Medal, Competitive Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
+•   Best Project Award (CubeSat Satellite Project), Engineering Staff College of India, 2016. <br/>
+•   Second Place, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
 •   Third Position, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
 •   Bronze Medal - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
 </p>
