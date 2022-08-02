@@ -35,7 +35,7 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead bg-cyan text-white text-center">
+        <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
