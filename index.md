@@ -93,7 +93,6 @@
                             </div>
                             <p>Leadership/Achievements</p>
                             <img class="img-fluid" src="assets/img/portfolio/achievements.png" alt="..." />
-                            
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -114,7 +113,6 @@
                             </div>
                             <p>Education</p>
                             <img class="img-fluid" src="assets/img/portfolio/education.png" alt="..." />
-                            
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
