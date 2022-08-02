@@ -57,9 +57,9 @@
                 <div class="row">
                     <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><b>Hola and Welcome to My Page!</b><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
                         <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br />
-                        <b>My Expertise:</b> Solutions Management, Application Development, Cloud Computing(AWS), Product Management <br />
+                        <b>My Expertise:</b> Solutions Management, Software Development, Cloud Computing(AWS) & Product Management <br />
                         <br />
-                        <b><i>Available For Immediate Hire!</i></b></p>
+                        <b><i>Available For Immediate Hire! Do check out my Portfolio below...</i></b></p>
                         <!-- </div> -->
                 </div>
             </div>
