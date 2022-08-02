@@ -18,7 +18,7 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg bg-default text-uppercase fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <a class="navbar-brand" href="#page-top">Sridurga Chintalapudi</a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,20 +34,17 @@
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
+        <!-- Masterhead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <!-- Masthead Avatar Image-->
+                <!-- Masterhead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
-                <!-- Masthead Heading-->
+                <!-- Masterhead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Durga Chintalapudi</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
-<!--                     <div class="divider-custom-line"></div> -->
-<!--                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div> -->
-<!--                     <div class="divider-custom-line"></div> -->
                 </div>
-                <!-- Masthead Subheading-->
+                <!-- Masterhead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Graduate Student at Duke University</p>
             </div>
         </header>
@@ -56,16 +53,14 @@
             <div class="container">
                 <!-- About Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
-                <!-- Icon Divider-->
-<!--                 <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div> -->
-<!--                 </div> -->
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p>Hello and Welcome to My Page! <br />To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. </p></div>
-                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
+                    <div class="col-lg-4 ms-auto"><p><i><b>"I am still learning and determined to be a lifelong learner...."</b></i></p><p>Hola and Welcome to My Page! <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p></div>
+                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!<br /></p>
+                        <p><b>My Expertise:</b> Solutions Management, Application Development, Cloud Computing(AWS), Product Management <br /></p>
+                        <br />
+                        <p><b><i>Available For Immediate Hire!</i></b></p>
+                        </div>
                 </div>
             </div>
         </section>
