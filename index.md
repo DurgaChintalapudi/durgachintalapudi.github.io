@@ -6,7 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title></title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -88,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Leadership/Achievements</p>
+                            <p><b>Leadership/Achievements</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/achievements.png" alt="..." />
                         </div>
                     </div>
@@ -98,7 +97,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Experience</p>
+                            <p><b>Experience</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/experience.png" alt="..." />
                         </div>
                     </div>
@@ -108,7 +107,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Education</p>
+                            <p><b>Education</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/education.png" alt="..." />
                         </div>
                     </div>
