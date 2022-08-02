@@ -44,9 +44,9 @@
                 <h1 class="masthead-heading text-uppercase mb-0">Durga Chintalapudi</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
+<!--                     <div class="divider-custom-line"></div> -->
 <!--                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div> -->
-                    <div class="divider-custom-line"></div>
+<!--                     <div class="divider-custom-line"></div> -->
                 </div>
                 <!-- Masthead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Graduate Student at Duke University</p>
@@ -72,7 +72,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <p>Projects</p>
-<!--                             <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." /> -->
+                            <img class="img-fluid" src="assets/img/portfolio/projects.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -81,7 +81,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-<!--                             <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." /> -->
+                            <img class="img-fluid" src="assets/img/portfolio/skills.png" alt="..." />
                             <p>Skills/Certifications</p>
                         </div>
                     </div>
@@ -457,10 +457,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <!-- * *                               SB Forms JS                               * *-->
-        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
