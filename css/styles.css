@@ -112,9 +112,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
   h1, .h1 {
-    font-size: 2.5rem;
+    font-size: 0.5rem;
   }
 }
 
@@ -157,6 +157,55 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+/* Timeline Container */
+.timeline {
+  background: var(--primary-color);
+  margin: 20px auto;
+  padding: 20px;
+}
+
+/* Outer Layer with the timeline border */
+.timelineouter {
+  border-left: 2px solid #333;
+}
+
+/* Card container */
+.timelinecard {
+  position: relative;
+  margin: 0 0 20px 20px;
+  padding: 10px;
+  background: #333;
+  color: gray;
+  border-radius: 8px;
+  max-width: 400px;
+}
+
+/* Information about the timeline */
+.timelineinfo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Title of the card */
+.timelinetitle {
+  color: orangered;
+  position: relative;
+}
+
+/* Timeline dot  */
+.timelinetitle::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 999px;
+  left: -39px;
+  border: 3px solid orangered;
+}
+
 
 abbr[title],
 abbr[data-bs-original-title] {
