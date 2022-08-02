@@ -217,24 +217,10 @@ Defence against Network Intrusion for Secured Cloud Computing through Ensemble L
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Skills/Certifications</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
-<!--                                         <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div> -->
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-<!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">
-                                        <b>Programming Languages:</b>
-                                        Java, C# <br />
-                                        <b>Scripting:</b> 
-                                        Python, Shell Scripting, Powershell<br />
-                                        <b>Other Frameworks/Tools:</b>Spring, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS,  ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
-<p class="mb-4"><b>Certifications:</b><br /> 
-IT Automation Professional Certificate with Python, Google.<br />
-Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />
-Java SE 8 Certified Programmer, Oracle.<br />
-</p>
+                                    <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting:</b>Python, Shell Scripting, Powershell<br /><b>Other Frameworks/Tools:</b>Spring, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS,  ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
+<p class="mb-4"><b>Certifications:</b><br /> IT Automation Professional Certificate with Python, Google.<br />Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />Java SE 8 Certified Programmer, Oracle.<br /></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
