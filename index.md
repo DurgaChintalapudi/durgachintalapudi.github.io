@@ -83,7 +83,6 @@
                             </div>
                             <p><b>Skills/Certifications</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/skills.png" alt="..." />
-                            
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
