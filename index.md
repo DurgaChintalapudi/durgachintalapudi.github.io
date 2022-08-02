@@ -129,10 +129,10 @@
                 <!-- About Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- Icon Divider-->
-                <div class="divider-custom divider-light">
+<!--                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-line"></div> -->
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
@@ -147,10 +147,10 @@
                 <!-- Contact Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
                 <!-- Icon Divider-->
-                <div class="divider-custom">
+<!--                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-line"></div> -->
                 </div>
                 <!-- Contact Section Form-->
                 <div class="row justify-content-center">
