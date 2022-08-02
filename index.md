@@ -55,12 +55,12 @@
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p><i><b>"I am still learning and determined to be a lifelong learner...."</b></i></p><p>Hola and Welcome to My Page! <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p></div>
-                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!<br /></p>
+                    <!-- <div class="col-lg-4 ms-auto"> --><p><i><b>"I am still learning and determined to be a lifelong learner...."</b></i></p><p>Hola and Welcome to My Page! <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p><!-- </div> -->
+                    <!-- <div class="col-lg-4 me-auto"> --><p>Currently pursuing my Masters in Engineering Management at Duke University!<br /></p>
                         <p><b>My Expertise:</b> Solutions Management, Application Development, Cloud Computing(AWS), Product Management <br /></p>
                         <br />
                         <p><b><i>Available For Immediate Hire!</i></b></p>
-                        </div>
+                        <!-- </div> -->
                 </div>
             </div>
         </section>
