@@ -27,6 +27,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#"></a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
@@ -40,7 +41,7 @@
                 <!-- Masterhead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
                 <!-- Masterhead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Durga Chintalapudi</h1>
+                <h2 class="masthead-heading text-uppercase mb-0">Durga Chintalapudi</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                 </div>
@@ -55,11 +56,11 @@
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- About Section Content-->
                 <div class="row">
-                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><b>Hola and Welcome to My Page!</b><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
-                        <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br />
+                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><b>Hola & Welcome to My Page!</b><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
+                        <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br /><br />
                         <b>My Expertise:</b> Solutions Management, Software Development, Cloud Computing(AWS) & Product Management <br />
                         <br />
-                        <b><i>Available For Immediate Hire! Do check out my Portfolio below...</i></b></p>
+                        <b><i>Available For Immediate Hire! Do Checkout My Portfolio Below...</i></b></p>
                         <!-- </div> -->
                 </div>
             </div>
