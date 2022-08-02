@@ -205,8 +205,10 @@
                                     <div class="divider-custom">
                                     </div>
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting:</b>Python, Shell Scripting, Powershell<br /><b>Other Frameworks/Tools:</b>Spring, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS,  ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
-<p class="mb-4"><b>Certifications:</b><br /> IT Automation Professional Certificate with Python, Google.<br />Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />Java SE 8 Certified Programmer, Oracle.<br /></p>
+                                    <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting:</b>Python, Shell Scripting, Powershell<br /><b>Backend Frameworks:</b>Spring MVC, Spring Boot, ASP .NET MVC, NodeJS<br /> 
+                                        <b>Data Layer:</b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
+                                        <b>Other Tools/Frameworks:</b>IBM MQ, AMQ,Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
+<p class="mb-4"><b>Certifications:</b><br /> <br />AWS Certified Solutions Architect Associate.<br />IT Automation Professional Certificate with Python, Google.<br />Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />Java SE 8 Certified Programmer, Oracle.<br /></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -225,7 +227,7 @@
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
                     <div class="modal-body text-center pb-5">
                         <div class="container">
-                            <div class="row">
+                            <div class="row justify-content-center" >
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2>
