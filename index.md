@@ -71,7 +71,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p>Projects</p>
+                            <p><b>Projects</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/projects.png" alt="..." />
                         </div>
                     </div>
@@ -81,8 +81,9 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
+                            <p><b>Skills/Certifications</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/skills.png" alt="..." />
-                            <p>Skills/Certifications</p>
+                            
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -91,8 +92,9 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-<!--                             <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." /> -->
                             <p>Leadership/Achievements</p>
+                            <img class="img-fluid" src="assets/img/portfolio/achievements.png" alt="..." />
+                            
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -102,7 +104,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             <p>Experience</p>
-<!--                             <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." /> -->
+                            <img class="img-fluid" src="assets/img/portfolio/experience.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -111,8 +113,9 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-<!--                             <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." /> -->
                             <p>Education</p>
+                            <img class="img-fluid" src="assets/img/portfolio/education.png" alt="..." />
+                            
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
