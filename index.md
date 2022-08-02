@@ -305,7 +305,7 @@ Defence against Network Intrusion for Secured Cloud Computing through Ensemble L
                                         Java, C# <br />
                                         <b>Scripting:</b> 
                                         Python, Shell Scripting, Powershell<br />
-                                        <b>Other Frameworks/Tools:Spring, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS,  ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
+                                        <b>Other Frameworks/Tools:</b>Spring, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS,  ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
 <p class="mb-4"><b>Certifications:</b><br /> 
 IT Automation Professional Certificate with Python, Google.<br />
 Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />
