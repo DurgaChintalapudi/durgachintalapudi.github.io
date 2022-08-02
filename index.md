@@ -133,11 +133,11 @@
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div> -->
-                </div>
+<!--                 </div> -->
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Hello and Welcome to My Page! To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. It had been my pleasure working with clients across the globe while working on Loyalty and Offers applications at Visa. I believe in Customer-centric and Collaborative approaches.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
+                    <div class="col-lg-4 ms-auto"><p>Hello and Welcome to My Page! <br />To introduce myself, I am a passionate professional interested in solving business challenges using technology. I have nearly five years of experience in software systems and reliability engineering. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. </p></div>
+                    <div class="col-lg-4 me-auto"><p>Currently pursuing my Masters in Engineering Management at Duke University!</p></div>
                 </div>
             </div>
         </section>
@@ -151,7 +151,7 @@
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div> -->
-                </div>
+<!--                 </div> -->
                 <!-- Contact Section Form-->
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-xl-7">
@@ -257,17 +257,18 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Projects</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
-                                        <div class="divider-custom-line"></div>
+<!--                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-line"></div> -->
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+<!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">
+Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning: Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models, Implementing ML algorithms to capture sequential network traffic information</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -289,17 +290,22 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Skills/Certifications</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
-                                        <div class="divider-custom-line"></div>
+<!--                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-line"></div> -->
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+<!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Java, Spring, Shell Scripting, Powershell, Python, Kafka, IBM MQ, AMQ, Hadoop, Hive, MSSQL, MySQL, Oracle, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, IIS, C#, ASP.NET, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
+<p class="mb-4"><b>Certifications:</b><br /> 
+IT Automation Professional Certificate with Python, Google.<br />
+Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />
+Java SE 8 Certified Programmer, Oracle.<br />
+</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
