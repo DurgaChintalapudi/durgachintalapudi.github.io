@@ -114,7 +114,7 @@ h1, .h1 {
 }
 @media (min-width: 120px) {
   h1, .h1 {
-    font-size: 0.1rem;
+    font-size: 0 rem;
   }
 }
 
@@ -4085,7 +4085,7 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 0.1rem;
+  padding-top: 0.9rem;
   padding-bottom: 0.9rem;
 }
 .navbar > .container,
