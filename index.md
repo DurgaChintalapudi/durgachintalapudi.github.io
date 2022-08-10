@@ -102,7 +102,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p><b>Leadership/Achievements</b></p>
+                            <p><b>Achievements</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/achievements.png" alt="..." />
                         </div>
                     </div>
@@ -238,20 +238,20 @@
                                     <!-- Portfolio Modal - Image-->
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4"><b>Leadership:</b><br />
-•   Cabinet Member, Communication Club, Duke Engineering Master’s Program Student Club, 2022.<br/>
-•   Strategy Consultant, Rad AI, 2022.<br/>
-•   Executive Board Member, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
-•   Lead, Literary Club, GNITS Hyderabad, 2016.<br/>
-•   Coordinator, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/></p>
+•   <b>Marketing Manager</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
+•   <b>Strategy Consultant</b>, Rad AI, 2022.<br/>
+•   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
+•   <b>Lead, Literary Club</b>, GNITS Hyderabad, 2016.<br/>
+•   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/></p>
 <p class="mb-4"><b>Academics/Technical:</b><br />
-•   Academic Excellence Award, JNTU Hyderabad, 2016.<br/>
-•   ACM International Collegiate Programming Contest, National Level Finalist in India, 2016.<br/>
-•   Gold Medal, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
-•   Best Project Award (CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
-•   Merit Award, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
-•   Second Place, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
-•   Third Position, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
-•   Bronze Medal - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
+•   <b>Academic Excellence Award</b>, JNTU Hyderabad, 2016.<br/>
+•   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
+•   <b>Gold Medal, Coding Competition</b>, Indian Society for Technical Education Hyderabad, 2016.<br/>
+•   <b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
+•   <b>Merit Award</b>, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
+•   <b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
+•   <b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
+•   <b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
 </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
@@ -274,17 +274,14 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Experience</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4"></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -306,17 +303,14 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Education</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4"></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
