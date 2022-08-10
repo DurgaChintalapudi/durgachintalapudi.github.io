@@ -41,7 +41,7 @@
                 <!-- Masterhead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
                 <!-- Masterhead Heading-->
-                <h3 class="masthead-heading text-uppercase mb-0">Durga Chintalapudi</h3>
+                <h3 class="masthead-heading mb-0">Durga Chintalapudi</h3>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                 </div>
