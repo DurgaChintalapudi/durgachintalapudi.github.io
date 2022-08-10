@@ -243,7 +243,7 @@
 •   <b>20+ Go Beyond Leadership Awards</b> in Individual/Team Categories for Consistent Performance, Visa Inc.<br/>
 •   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •   <b>Lead, Literary Club</b>, GNITS Hyderabad, 2016.<br/>
-•   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/></p>
+•   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
 •   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.<br/></p>
 <p class="mb-4"><b>TECHNICAL:</b><br />
 •   <b>Gold Medal, Individual Category</b>, Visa Inc, 2019.<br/>
