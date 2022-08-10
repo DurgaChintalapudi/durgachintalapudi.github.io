@@ -169,7 +169,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Projects</h2>
-                                    <p class="mb-4"><b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br /></p>
+                                    <p class="mb-4"><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank"><b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br /></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
