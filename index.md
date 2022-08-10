@@ -92,7 +92,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <p><b>Skills/Certifications</b></p>
+                            <p><b>Skills</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/skills.png" alt="..." />
                         </div>
                     </div>
@@ -179,7 +179,9 @@
 <!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">
-<b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b> <br />.Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models</p>
+<b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br />
+<b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Link</a></b>
+</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -201,7 +203,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Skills/Certifications</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Skills</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                     </div>
