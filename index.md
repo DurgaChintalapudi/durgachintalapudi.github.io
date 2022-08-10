@@ -57,7 +57,7 @@
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- About Section Content-->
                 <div class="row">
-                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
+                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> I am Durga, I love to work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
                         <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br /><br />
                         <b>My Expertise:</b> Solutions Management, Product Management, Cloud Computing(AWS) and Site Reliability Engineering <br />
                         <br />
@@ -149,7 +149,7 @@
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/durga-chintalapudi/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/durga-chintalapudi/" target="_blank"><i class="fab fa-fw fa-linkedin-in"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
