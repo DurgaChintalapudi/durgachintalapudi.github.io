@@ -47,6 +47,7 @@
                 </div>
                 <!-- Masterhead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Graduate Student at Duke University</p>
+                <p><b>Hola & Welcome to My Page!</b></p>
             </div>
         </header>
                 <!-- About Section-->
@@ -56,11 +57,11 @@
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- About Section Content-->
                 <div class="row">
-                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><b>Hola & Welcome to My Page!</b><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
+                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> I am Durga, I love to code and work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
                         <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br /><br />
-                        <b>My Expertise:</b> Solutions Management, Software Development, Cloud Computing(AWS) & Product Management <br />
+                        <b>My Expertise:</b> Solutions Management, Product Management, Cloud Computing(AWS) and Site Reliability Engineering <br />
                         <br />
-                        <b><i>Available For Immediate Hire! Do Checkout My Portfolio Below...</i></b></p>
+                        <b><i>Available For Immediate Hire!</i></b></p>
                         <!-- </div> -->
                 </div>
             </div>
