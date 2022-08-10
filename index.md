@@ -249,7 +249,7 @@
 •   <b>Gold Medal</b>, Individual Category, Visa Inc, 2019.<br/>
 •   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
-•   <b>Gold Medal, Coding Competition</b>, Indian Society for Technical Education Hyderabad, 2016.<br/>
+•   <b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
 •   <b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
 •   <b>Merit Award</b>, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
 •   <b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
