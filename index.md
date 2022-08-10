@@ -237,14 +237,17 @@
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4"><b>Leadership:</b><br />
+                                    <p class="mb-4"><b>LEADERSHIP</b><br />
 •   <b>Marketing Manager</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
-•   <b>Strategy Consultant</b>, Rad AI, 2022.<br/>
+•   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.<br/>
+•   <b>20+ Go Beyond Leadership Awards</b> in Individual/Team Categories for Consistent Performance, Visa Inc.<br/>
 •   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •   <b>Lead, Literary Club</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/></p>
-<p class="mb-4"><b>Academics/Technical:</b><br />
-•   <b>Academic Excellence Award</b>, JNTU Hyderabad, 2016.<br/>
+•   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.<br/></p>
+<p class="mb-4"><b>TECHNICAL:</b><br />
+•   <b>Gold Medal, Individual Category</b>, Visa Inc, 2019.<br/>
+•   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
 •   <b>Gold Medal, Coding Competition</b>, Indian Society for Technical Education Hyderabad, 2016.<br/>
 •   <b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
