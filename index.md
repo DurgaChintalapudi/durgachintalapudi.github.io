@@ -47,7 +47,7 @@
                 </div>
                 <!-- Masterhead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Graduate Student at Duke University</p>
-                <p class="masthead-subheading font-weight-light mb-0"><b>Hola & Welcome to My Page!</b></p>
+                <p class="masthead-subheading font-weight-light mb-0"><b>Howdy! Welcome to My Page</b></p>
             </div>
         </header>
                 <!-- About Section-->
@@ -228,7 +228,7 @@
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
                     <div class="modal-body pb-5">
                         <div class="container">
-                            <div class="row"><!-- <div class="row justify-content-center" > -->
+                            <div class="row justify-content-center" >
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2>
