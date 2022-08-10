@@ -240,7 +240,7 @@
                                     <p class="mb-4"><b>LEADERSHIP</b><br />
 •   <b>Marketing Manager</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
 •   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.<br/>
-•   <b>20+ Go Beyond Leadership Awards</b> in Individual/Team Categories for Consistent Performance, Visa Inc.<br/>
+•   <b>20+ Go Beyond Leadership Awards</b> for Consistent Performance, Visa Inc.<br/>
 •   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •   <b>Lead, Literary Club</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
