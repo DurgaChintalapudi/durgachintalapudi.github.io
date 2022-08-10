@@ -179,8 +179,7 @@
 <!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." /> -->
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">
-<b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br />
-<b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Link</a></b>
+<b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br />
 </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
