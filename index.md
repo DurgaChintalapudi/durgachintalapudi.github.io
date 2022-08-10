@@ -169,18 +169,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Projects</h2>
-                                    <!-- Icon Divider-->
-                                    <div class="divider-custom">
-<!--                                         <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                                        <div class="divider-custom-line"></div> -->
-                                    </div>
-                                    <!-- Portfolio Modal - Image-->
-<!--                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." /> -->
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">
-<b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br />
-</p>
+                                    <p class="mb-4"><b><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank">Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br /></p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -238,7 +227,7 @@
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4"><b>LEADERSHIP:</b><br />
+                                    <p class="mb-4"><h3><b>LEADERSHIP:</b></h3><br />
 •   <b>Marketing Manager</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
 •   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.<br/>
 •   <b>20+ Go Beyond Leadership Awards</b> for Consistent Performance, Visa Inc.<br/>
@@ -246,7 +235,7 @@
 •   <b>Lead, Literary Club</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
 •   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.<br/></p>
-<p class="mb-4"><b>TECHNICAL:</b><br />
+<p class="mb-4"><h3><b>TECHNICAL:</b></h3><br />
 •   <b>Gold Medal</b>, Individual Category, Visa Inc, 2019.<br/>
 •   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
