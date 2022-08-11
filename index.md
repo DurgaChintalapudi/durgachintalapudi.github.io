@@ -238,7 +238,7 @@
 •   <b>Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
 •   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.<br/></p>
 <p class="mb-4"><h3><b>TECHNICAL:</b></h3>
-•   <b>Grace Hopper Celebrations Scholar</b>, 2022.<br/>
+•   <b>Grace Hopper Celebrations Scholar</b> GHC'2022, Duke University, 2022.<br/>
 •   <b>Gold Medal</b>, Individual Category, Visa Inc, 2019.<br/>
 •   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
 •   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
