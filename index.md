@@ -110,9 +110,7 @@
 <li><b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.</li>
 <li><b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.</li>
 </p>
-                </div>
-            </div>
-        </section>
+                
         <!-- Contact Section-->
         <section class="page-section" id="contact">
             <div class="container">
@@ -144,14 +142,10 @@
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
         
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6" aria-hidden="true">
-            
-        </div>
+
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-    </body>
-</html>
-
+    
