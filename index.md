@@ -80,10 +80,33 @@
                                     <p class="mb-4"><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank"><b>Defence against Network Intrusion for Secured Cloud Computing through Ensemble Learning:</b></a> <br />• Performed a survey of existing Deep Learning Techniques used for Network Intrusion Detection System and compared the performance of various primitive ML models<br /></p>
                                     <p class="mb-4"><a href="https://medium.com/@durgachintalapudi/experiment-network-intrusion-detection-for-secured-cloud-computing-through-ensemble-learning-21e87d1fe53d" target="_blank"><b>Prediction of Chronic Kidney Disease:</b></a> <br />• Built a model that predicted if a patient suffered from Chronic Kidney disease.<br />
 • Used logistic regression for classification and recursive feature selection technique.<br /></p>
+                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Skills</h2><br />
                       <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting: </b>Python, Shell Scripting, Powershell<br /><b>Backend Frameworks: </b>Spring MVC, Spring Boot, ASP.NET MVC, NodeJS<br /> 
                                         <b>Data Layer: </b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
                                         <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
 <p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
+                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
+                     <p class="mb-4"><h3><b>LEADERSHIP:</b></h3>
+•   <b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
+•   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.<br/>
+•   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.<br/>
+•   Received <b>20+ Go Beyond Leadership Spot Awards</b> for Consistent Top Performance, Visa Inc.<br/>
+•   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
+•   <b>Lead</b>, Literary Club, GNITS Hyderabad, 2016.<br/>
+•   <b>Technical Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.<br/>
+•   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.<br/></p>
+<p class="mb-4"><h3><b>TECHNICAL:</b></h3>
+•   Represented Duke at Grace Hopper Celebrations GHC, 2022.<br/>
+•   <b>Gold Medal</b>, Individual Category, Visa Inc, 2019.<br/>
+•   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
+•   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
+•   <b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
+•   <b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
+•   <b>Merit Award</b>, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
+•   <b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
+•   <b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
+•   <b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
+</p>
                 </div>
             </div>
         </section>
