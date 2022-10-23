@@ -88,26 +88,27 @@
                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
                      <p><h3><b>LEADERSHIP:</b></h3>
                     <ul>
-<li>•   ><b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.</li>
-<li>•   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.</li>
-<li>•   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.</li>
-<li>•   Received <b>20+ Go Beyond Leadership Spot Awards</b> for Consistent Top Performance, Visa Inc.</li>
-<li>•   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.</li>
-<li>•   <b>Lead</b>, Literary Club, GNITS Hyderabad, 2016.</li>
-<li>•   <b>Technical Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.</li>
-<li>•   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.</li>
+<li>  ><b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.</li>
+<li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.</li>
+<li>   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.</li>
+<li>   Received <b>20+ Go Beyond Leadership Spot Awards</b> for Consistent Top Performance, Visa Inc.</li>
+<li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.</li>
+<li>   <b>Lead</b>, Literary Club, GNITS Hyderabad, 2016.</li>
+<li>   <b>Technical Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.</li>
+<li>   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.</li>
                     </ul></p>
 <p class="mb-4"><h3><b>TECHNICAL:</b></h3>
-•   Represented Duke at Grace Hopper Celebrations GHC, 2022.<br/>
-•   <b>Gold Medal</b>, Individual Category, Visa Inc, 2019.<br/>
-•   <b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.<br/>
-•   <b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.<br/>
-•   <b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.<br/>
-•   <b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016. <br/>
-•   <b>Merit Award</b>, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. <br/>
-•   <b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.<br/>
-•   <b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.<br/>
-•   <b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.<br/>
+                <ul>
+<li>Represented Duke at Grace Hopper Celebrations GHC, 2022.</li>
+<li><b>Gold Medal</b>, Individual Category, Visa Inc, 2019.</li>
+<li><b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.</li>
+<li><b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.</li>
+<li><b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.</li>
+<li><b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016.</li>
+<li><b>Merit Award</b>, IEEE Technical Conference Hyderabad for presenting paper on 'Artificial Retina Using Thin Film Transistors', 2016. </li>
+<li><b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.</li>
+<li><b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.</li>
+<li><b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.</li>
 </p>
                 </div>
             </div>
