@@ -74,7 +74,7 @@
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                 </div>
-                <!-- Portfolio Grid Items-->
+<!--                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
@@ -125,7 +125,7 @@
                             <p><b>Education</b></p>
                             <img class="img-fluid" src="assets/img/portfolio/education.png" alt="..." />
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
