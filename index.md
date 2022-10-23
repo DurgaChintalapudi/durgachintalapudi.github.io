@@ -86,7 +86,7 @@
                                         <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
 <p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
-                     <p class="mb-4"><h3><b>LEADERSHIP:</b></h3>
+                     <p><h3><b>LEADERSHIP:</b></h3>
 •   <b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.<br/>
 •   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.<br/>
 •   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.<br/>
