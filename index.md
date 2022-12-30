@@ -93,25 +93,22 @@
 •	Led a team of four members, to market and publicize events of over 10+ Student Clubs under Duke Pratt School of Engineering.<br />
 •	Conducted student feedback surveys and interviews to improve the student engagement by 40%<br />
 <b>Skills:</b> Leadership, Digital Content Design, Design Thinking, User Surveys, Social Media Management, Marketing Strategies.<br />
-                          </li>
+                          </li><br /><br />
 <li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022 <br />
 •	Performed market research of healthcare systems, conducted interviews of 40+ Radiologists to identify pain points. <br />
 •	Provided recommendations by performing competitive analysis on radiology automation products to increase market share by 20%. <br />
 •	Developed product roadmap and presented it to the executive team with recommendations and go-to-market strategy.<br />
-Skills: Market Research, Design Thinking, Product Strategy, Competitive Analysis, Marketing Strategy, GTM Strategy.<br />
-</li>
+<b>Skills:</b> Market Research, Design Thinking, Product Strategy, Competitive Analysis, Marketing Strategy, GTM Strategy.<br />
+</li><br /><br />
 <li>   <b>Cabinet Member</b>, Data Club, Duke MEM Program, 2022.<br />
 •	Conducted two Data Hackathons for a cohort of 500+ students successfully. <br />
-•	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br /></li>
+•	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br /></li><br /><br />
 <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •	Led a team of 100+ volunteers, and headed the Social Impact Division, organized fund raising events. <br />
 •	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br /></li>                     
-                          
-                          </li> </ul></p>
-                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
-                    
-
-                <ul>
+    </ul></p>
+  <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
+ <ul>
 <li><b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.</li>
 <li><b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.</li>
 <li><b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016.</li>
@@ -119,14 +116,11 @@ Skills: Market Research, Design Thinking, Product Strategy, Competitive Analysis
 <li><b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.</li>
 <li><b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.</li>
 <li><b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.</li>
-
-                
-        <!-- Contact Section-->
-        <section class="page-section" id="contact">
+</ul>
+<section class="page-section" id="contact">
             <div class="container">
                 </div>
         </section>
-        <!-- Footer-->
         <footer class="footer text-center">
             <div class="container">
                 <div class="row">
@@ -149,13 +143,7 @@ Skills: Market Research, Design Thinking, Product Strategy, Competitive Analysis
                 </div>
             </div>
         </footer>
-        <!-- Portfolio Modals-->
-        <!-- Portfolio Modal 1-->
-        
-
-        <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     
