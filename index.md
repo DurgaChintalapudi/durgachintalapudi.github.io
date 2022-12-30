@@ -39,7 +39,9 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masterhead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
+                <img class="masthead-avatar mb-5" width="234" alt="image" src="https://user-images.githubusercontent.com/105465968/210101525-3249502e-f7e8-41d5-a5e5-2393401fd0e3.png">
+
+<!--                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." /> -->
                 <!-- Masterhead Heading-->
                 <h3 class="masthead-heading mb-0">Durga Chintalapudi</h3>
                 <!-- Icon Divider-->
@@ -59,7 +61,7 @@
                 <div class="row">
                     <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> Software Systems Engineering Professional with Five years of Industrial Experience. 
 </p>
-                        <p style="text-align:center;">Currently pursuing a Master's in Engineering Management from Duke University specializing in Data Science and Product Marketing.<br /><br />
+                        <p style="text-align:center;">Currently pursuing a Master's in Engineering Management from Duke University specializing in Data Science and Product Marketing.<br />
                         <b>My Expertise:</b> Product Operations, Customer Engineering, and Site Reliability Engineering <br />
                         <br />
                         <b><i>Available For Immediate Hire!</i></b></p>
