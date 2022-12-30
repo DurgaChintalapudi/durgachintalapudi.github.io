@@ -39,9 +39,9 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masterhead Avatar Image-->
-                <img class="masthead-avatar mb-5" width="234" alt="image" src="https://user-images.githubusercontent.com/105465968/210101525-3249502e-f7e8-41d5-a5e5-2393401fd0e3.png">
+<!--                 <img class="masthead-avatar mb-5" width="234" alt="image" src="https://user-images.githubusercontent.com/105465968/210101525-3249502e-f7e8-41d5-a5e5-2393401fd0e3.png"> -->
 
-<!--                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." /> -->
+                <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
                 <!-- Masterhead Heading-->
                 <h3 class="masthead-heading mb-0">Durga Chintalapudi</h3>
                 <!-- Icon Divider-->
@@ -88,23 +88,18 @@
                                         <b>Data Layer: </b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
                                         <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
 <p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
-                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
-                     <p><h3><b>LEADERSHIP:</b></h3>
-                    <ul>
+                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Experience</h2><br />
+                    <p><h3><b>Professional Journey</b></h3>
+                    <p><h3><b>Leadership Experience</b></h3>
+                      <ul>
 <li>  <b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.</li>
 <li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.</li>
 <li>   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.</li>
-<li>   Received <b>20+ Go Beyond Leadership Spot Awards</b> for Consistent Top Performance, Visa Inc.</li>
-<li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.</li>
-<li>   <b>Lead</b>, Literary Club, GNITS Hyderabad, 2016.</li>
-<li>   <b>Technical Coordinator</b>, Indian Society for Technical Education Hyderabad GNITS Student Chapter, 2016.</li>
-<li>   <b>Member</b>, Persona Dramatics Club, GNITS Hyderabad, 2016.</li>
-                    </ul></p>
-<p class="mb-4"><h3><b>TECHNICAL:</b></h3>
+                          <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.</li> </ul></p>
+                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
+                    
+
                 <ul>
-<li>Represented Duke at Grace Hopper Celebrations GHC, 2022.</li>
-<li><b>Gold Medal</b>, Individual Category, Visa Inc, 2019.</li>
-<li><b>Academic Excellence Award</b>, GNITS Hyderabad, 2016.</li>
 <li><b>National Level Finalist</b>, ACM International Collegiate Programming Contest, India, 2016.</li>
 <li><b>Gold Medal</b>, Coding Competition, Indian Society for Technical Education Hyderabad, 2016.</li>
 <li><b>Best Project Award </b>(CUBESAT - Satellite Project), Engineering Staff College of India, 2016.</li>
