@@ -106,7 +106,7 @@
 <b>Skills:</b> Event Organization, Leadership, Event Marketing.</li><br />
 <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •	Led a team of 100+ volunteers, and headed the Social Impact Division, organized fund raising events. <br />
-•	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br /></li>     
+•	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br />    
 <b>Skills:</b> Time Management, Mentoring, Communication, People Management.</li>
     </ul></p>
   <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
