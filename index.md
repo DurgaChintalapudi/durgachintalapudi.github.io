@@ -57,9 +57,10 @@
                 <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
                 <!-- About Section Content-->
                 <div class="row">
-                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> I am Durga, I love to work on projects that are meant to serve a smaller or a bigger cause. I feel happy working in customer-facing roles and providing technical resolutions by being empathetic to clients. Having nearly five years of professional experience in software systems and reliability engineering, I got an opportunity to work with people across the globe and on multiple technologies.</p>
-                        <p style="text-align:center;">Currently pursuing my Masters in Engineering Management at Duke University!<br /><br />
-                        <b>My Expertise:</b> Data Science, DevOps and Site Reliability Engineering <br />
+                    <!-- <div class="col-lg-4 ms-auto"> --><p style="text-align:center;"><i>"I am still learning and determined to be a lifelong learner...."</i></p><p style="text-align:center;"><br /> <br /> Software Systems Engineering Professional with Five years of Industrial Experience. 
+</p>
+                        <p style="text-align:center;">Currently pursuing a Master's in Engineering Management from Duke University specializing in Data Science and Product Marketing.<br /><br />
+                        <b>My Expertise:</b> Product Operations, Customer Engineering, and Site Reliability Engineering <br />
                         <br />
                         <b><i>Available For Immediate Hire!</i></b></p>
                         <!-- </div> -->
