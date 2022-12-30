@@ -38,9 +38,6 @@
         <!-- Masterhead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <!-- Masterhead Avatar Image-->
-<!--                 <img class="masthead-avatar mb-5" width="234" alt="image" src="https://user-images.githubusercontent.com/105465968/210101525-3249502e-f7e8-41d5-a5e5-2393401fd0e3.png"> -->
-
                 <img class="masthead-avatar mb-5" src="assets/img/portfolio/Durga_img.png" alt="..." />
                 <!-- Masterhead Heading-->
                 <h3 class="masthead-heading mb-0">Durga Chintalapudi</h3>
@@ -92,10 +89,25 @@
                     <p><h3><b>Professional Journey</b></h3>
                     <p><h3><b>Leadership Experience</b></h3>
                       <ul>
-<li>  <b>President of Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022.</li>
-<li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022.</li>
-<li>   <b>Executive Board Member</b>, Data Club, Duke MEM Program, 2022.</li>
-                          <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.</li> </ul></p>
+<li>  <b> President and Founder, Marketing Club</b>, Duke Engineering Master’s Program Student Club, 2022<br />                       
+•	Led a team of four members, to market and publicize events of over 10+ Student Clubs under Duke Pratt School of Engineering.<br />
+•	Conducted student feedback surveys and interviews to improve the student engagement by 40%<br />
+<b>Skills:</b> Leadership, Digital Content Design, Design Thinking, User Surveys, Social Media Management, Marketing Strategies.<br />
+                          </li>
+<li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022 <br />
+•	Performed market research of healthcare systems, conducted interviews of 40+ Radiologists to identify pain points. <br />
+•	Provided recommendations by performing competitive analysis on radiology automation products to increase market share by 20%. <br />
+•	Developed product roadmap and presented it to the executive team with recommendations and go-to-market strategy.<br />
+Skills: Market Research, Design Thinking, Product Strategy, Competitive Analysis, Marketing Strategy, GTM Strategy.<br />
+</li>
+<li>   <b>Cabinet Member</b>, Data Club, Duke MEM Program, 2022.
+•	Conducted two Data Hackathons for a cohort of 500+ students successfully. <br />
+•	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br /></li>
+<li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
+•	Led a team of 100+ volunteers, and headed the Social Impact Division, organized fund raising events. <br />
+•	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br /></li>                     
+                          
+                          </li> </ul></p>
                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
                     
 
