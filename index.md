@@ -100,7 +100,7 @@
 •	Developed product roadmap and presented it to the executive team with recommendations and go-to-market strategy.<br />
 Skills: Market Research, Design Thinking, Product Strategy, Competitive Analysis, Marketing Strategy, GTM Strategy.<br />
 </li>
-<li>   <b>Cabinet Member</b>, Data Club, Duke MEM Program, 2022.
+<li>   <b>Cabinet Member</b>, Data Club, Duke MEM Program, 2022.<br />
 •	Conducted two Data Hackathons for a cohort of 500+ students successfully. <br />
 •	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br /></li>
 <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
