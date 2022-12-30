@@ -110,7 +110,7 @@
 <li><b>Second Place</b>, Coding Contest, Information Technology Department, JNTU Hyderabad, 2015.</li>
 <li><b>Third Position</b>, Software Design Contest, Institution of Electronics and Telecommunication Engineers Hyderabad’s Student Chapter, 2015.</li>
 <li><b>Bronze Medal</b> - State Level, Mathematics Olympiad, Edu Heal Foundation India, 2010.</li>
-</p>
+
                 
         <!-- Contact Section-->
         <section class="page-section" id="contact">
