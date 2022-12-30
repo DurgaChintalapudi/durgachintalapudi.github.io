@@ -93,19 +93,21 @@
 •	Led a team of four members, to market and publicize events of over 10+ Student Clubs under Duke Pratt School of Engineering.<br />
 •	Conducted student feedback surveys and interviews to improve the student engagement by 40%<br />
 <b>Skills:</b> Leadership, Digital Content Design, Design Thinking, User Surveys, Social Media Management, Marketing Strategies.<br />
-                          </li><br /><br />
+                          </li><br />
 <li>   <b>Strategy Consultant</b>, Duke-Rad AI, 2022 <br />
 •	Performed market research of healthcare systems, conducted interviews of 40+ Radiologists to identify pain points. <br />
 •	Provided recommendations by performing competitive analysis on radiology automation products to increase market share by 20%. <br />
 •	Developed product roadmap and presented it to the executive team with recommendations and go-to-market strategy.<br />
 <b>Skills:</b> Market Research, Design Thinking, Product Strategy, Competitive Analysis, Marketing Strategy, GTM Strategy.<br />
-</li><br /><br />
+</li><br />
 <li>   <b>Cabinet Member</b>, Data Club, Duke MEM Program, 2022.<br />
 •	Conducted two Data Hackathons for a cohort of 500+ students successfully. <br />
-•	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br /></li><br /><br />
+•	Planned and led the Data Club cabinet to organize networking events and Data Workshops. <br />
+<b>Skills:</b> Event Organization, Leadership, Event Marketing.</li><br />
 <li>   <b>Executive Board Member</b>, Social Impact Division, Street Cause (NGO), India, 2015-18.<br/>
 •	Led a team of 100+ volunteers, and headed the Social Impact Division, organized fund raising events. <br />
-•	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br /></li>                     
+•	Won the best division award amongst multiple Student Divisions and Colleges in Hyderabad in 2016. <br /></li>     
+<b>Skills:</b> Time Management, Mentoring, Communication, People Management.</li>
     </ul></p>
   <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Achievements</h2><br />
  <ul>
