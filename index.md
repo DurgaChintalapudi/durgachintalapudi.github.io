@@ -30,6 +30,7 @@
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#"></a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#experience">Experience</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -85,7 +86,19 @@
                                         <b>Data Layer: </b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
                                         <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
 <p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
-                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Experience</h2><br />
+                                    </div>
+            </div>
+        </section>
+                            <section class="page-section portfolio" id="experience">
+            <div class="container">
+                <!-- Portfolio Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Experience</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                </div>
+                 <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+<!--                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Experience</h2><br /> -->
                     <p><h3><b>Professional Journey</b></h3>
                     <p><h3><b>Leadership Experience</b></h3>
                       <ul>
