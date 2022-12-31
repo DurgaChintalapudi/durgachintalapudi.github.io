@@ -85,7 +85,7 @@
                       <p class="mb-4"><b>Programming Languages:</b> Java, C# <br /><b>Scripting: </b>Python, Shell Scripting, Powershell<br /><b>Backend Frameworks: </b>Spring MVC, Spring Boot, ASP.NET MVC, NodeJS<br /> 
                                         <b>Data Layer: </b>MSSQL, MySQL, Oracle, Kafka, Hadoop, Hive<br />
                                         <b>Other Tools/Frameworks: </b>IBM MQ, AMQ, Jenkins, AWS, Puppet, Cloud Engineering, Splunk, Kubernetes, Scala, Spark, Project management.<br />Experience with Linux and Windows Operating Systems.</p>
-<p class="mb-4"><b>Certifications:</b><br /> <br />• AWS Certified Solutions Architect Associate.<br />• IT Automation Professional Certificate with Python, Google.<br />• Certified Scrum Product Owner (CSPO®), Scrum Alliance.<br />• Java SE 8 Certified Programmer, Oracle.<br /></p>
+<p class="mb-4"><b>Certifications:</b><br />• AWS Certified Solutions Architect Associate • IT Automation Professional Certificate with Python, Google.  • Certified Scrum Product Owner (CSPO®), Scrum Alliance. • Java SE 8 Certified Programmer, Oracle.<br /></p>
                                     </div>
             </div>
         </section>
