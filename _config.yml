@@ -1,1 +1,6 @@
-
+title: Sridurga Chintalapudi
+description: Staff Software Engineer focused on Agentic AI, reliability, and platform architecture.
+url: https://durgachintalapudi.github.io
+markdown: kramdown
+exclude:
+  - README.md
