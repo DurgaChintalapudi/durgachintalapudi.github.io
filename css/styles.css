@@ -54,3 +54,7 @@ p { margin: 0 0 18px; }
   h2 { font-size: 25px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Small, unadorned portrait alongside the introduction. */
+.profile-photo { float: right; width: 150px; height: 180px; object-fit: cover; object-position: center top; margin: 0 0 20px 28px; }
+@media (max-width: 650px) { .profile-photo { width: 112px; height: 135px; margin: 0 0 12px 18px; } }
