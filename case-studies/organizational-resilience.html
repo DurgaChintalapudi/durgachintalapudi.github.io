@@ -1,26 +1,63 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="A deep Engineering Management case study of Change Healthcare and CrowdStrike: failure propagation, dependency maps, measurable resilience controls, and recovery assurance.">
-<meta property="og:title" content="Organizational Resilience in Critical Digital Infrastructure | Sridurga Chintalapudi">
-<meta property="og:description" content="An Engineering Management case study of cascading risks, business continuity, and measurable controls.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="An in-depth engineering management case study comparing Change Healthcare and CrowdStrike: failure propagation, dependencies, operational controls, and business recovery.">
+<meta property="og:title" content="When Technology Recovers but Business Doesn't | Sridurga Chintalapudi">
+<meta property="og:description" content="An EMGT 7310 comparative case study of cascading technology failures and business-service resilience.">
 <link rel="canonical" href="https://durgachintalapudi.github.io/case-studies/organizational-resilience.html">
-<link rel="stylesheet" href="../css/styles.css"><link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <title>When Technology Recovers but Business Doesn't | Sridurga Chintalapudi</title>
 <style>
-article{padding:45px 0 65px}.case-meta{font-size:14px;color:#555}.case-intro{font-size:19px;color:#444}
-article h2{margin-top:36px;border-top:1px solid #e5e5e5;padding-top:28px}
-article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-size:15px;margin:20px 0}
-.case-table th,.case-table td{text-align:left;vertical-align:top;border-bottom:1px solid #ddd;padding:12px 9px}
-.case-table th{background:#f7f7f7}article li{margin:8px 0}.references{font-size:14px;overflow-wrap:anywhere}
-@media(max-width:650px){.case-table{font-size:13px}.case-table th,.case-table td{padding:8px 5px}}
-
-.article-kicker{font:700 12px/1.5 system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:#536e82}
-.article-deck{font-size:19px;line-height:1.6;color:#334455}
-.article-meta{font-size:14px;color:#586574;line-height:1.8}
-.article-toc{padding:20px 24px;border:1px solid #e1e7eb;border-radius:12px;background:#f8fafb;margin:30px 0}
-.article-toc a{display:inline-block;margin:4px 15px 4px <main id="main" class="shell">
+:root{color-scheme:light}*{box-sizing:border-box}
+html{scroll-behavior:smooth}body{margin:0;color:#24323c;background:#fff;font:16px/1.7 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:#27517a;text-underline-offset:3px}a:hover{color:#132f4b}
+.shell{width:min(850px,calc(100% - 36px));margin:auto}
+.site-header{border-bottom:1px solid #e0e6e9;background:#fff}.nav-wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:17px 0}
+.brand{text-decoration:none;font-weight:750;color:#202c35}.brand span{color:#536578}
+.site-nav{display:flex;flex-wrap:wrap;gap:18px;font-size:14px}.site-nav a{text-decoration:none}
+h1,h2,h3{line-height:1.26;color:#1b2d38}h1{font-size:clamp(32px,5vw,46px);letter-spacing:-.03em;margin:12px 0 18px}
+h2{font-size:26px}h3{font-size:19px}p{margin:0 0 18px}.skip-link{position:absolute;left:-9999px}.skip-link:focus{left:12px;top:12px;background:white;padding:10px}
+.article-kicker{font-size:12px;font-weight:750;letter-spacing:.08em;text-transform:uppercase;color:#536e82}
+.article-deck{font-size:19px;line-height:1.6;color:#334455}.article-meta{font-size:14px;color:#586574;line-height:1.8}
+.article-toc{padding:20px 24px;border:1px solid #dce5ea;border-radius:12px;background:#f8fafb;margin:30px 0}
+.article-toc a{display:inline-block;margin:4px 15px 4px 0;font-size:14px}
+.case-figure{border:1px solid #dce4e9;border-radius:13px;margin:24px 0;padding:17px;background:#fbfcfd}
+.case-figure img{display:block;width:100%;height:auto}
+.case-figure figcaption{font-size:13px;line-height:1.6;color:#536578;margin-top:13px}
+.case-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:24px 0}
+.case-fact{border:1px solid #dce4e9;padding:16px;border-radius:10px}
+.case-fact strong{font-size:22px;display:block;line-height:1.25}
+.case-fact span{font-size:12px;color:#526372;display:block;margin-top:9px}
+.case-insight{border-left:4px solid #496b83;padding:15px 19px;background:#f4f7f9;margin:20px 0}
+.case-insight p:last-child{margin-bottom:0}
+.case-section-heading{font-size:25px;margin-top:43px;padding-top:30px;border-top:1px solid #e0e5e8}
+.case-table{display:block;overflow-x:auto;margin:20px 0}
+.case-table table{width:100%;border-collapse:collapse;font-size:14px;line-height:1.5}
+.case-table th,.case-table td{border-bottom:1px solid #dce4e9;padding:12px 10px;text-align:left;vertical-align:top}
+.case-table th{background:#f4f7f9}
+.case-note{color:#536578;font-size:13px}.case-citations{font-size:14px;line-height:1.7;overflow-wrap:anywhere}
+.case-citations li{padding-bottom:12px}.case-article p{line-height:1.75}
+.case-article ul li,.case-article ol li{margin-bottom:9px}
+.site-footer{border-top:1px solid #eee;padding:22px 0;font-size:13px;color:#666}
+.footer-layout{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+@media(max-width:650px){.nav-wrap{display:block}.brand{display:block;margin-bottom:12px}.case-facts{grid-template-columns:1fr}.case-figure{padding:10px}.article-deck{font-size:17px}h2{font-size:23px}}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+<div class="shell nav-wrap">
+<a class="brand" href="../index.html">Sridurga <span>Chintalapudi.</span></a>
+<nav class="site-nav" aria-label="Site navigation">
+<a href="../index.html#about">About</a>
+<a href="../index.html#research">Research &amp; Case Studies</a>
+<a href="../index.html#connect">Connect ↗</a>
+</nav>
+</div>
+</header>
+<main id="main" class="shell">
 <article class="case-article" style="padding:52px 0 70px">
 <p class="article-kicker">Engineering Management / Applied Case Analysis / 2026</p>
 <h1>When Technology Recovers but Business Doesn't</h1>
@@ -160,25 +197,6 @@ article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-
 </section>
 <p style="margin-top:38px"><a href="../index.html#research">← Back to Research &amp; Case Studies</a></p>
 </article></main>
-
-hird-party disruptions, and incomplete reconciliation after restart. These risks require continual review, exercises, and accountable owners.</p>
-<h2>6. Engineering Management takeaways</h2>
-<ul>
-<li><strong>Analyze dependencies, not just components.</strong> A single shared service can carry organization-wide consequences.</li>
-<li><strong>Separate prevention from continuity.</strong> Controls designed for ransomware are not substitutes for safe software-release practices, and vice versa.</li>
-<li><strong>Use evidence gates.</strong> Recovery declarations should depend on tested, auditable service outcomes.</li>
-<li><strong>Make residual risk explicit.</strong> The organization must decide how to handle missed recovery objectives and the cost of additional safeguards.</li>
-</ul>
-<p class="note">This page shares the public case-study component of completed academic coursework. It contains no unpublished doctoral hypotheses, agentic AI research proposal, or experimental design. The author did not participate in the incident investigations described here.</p>
-<h2>References</h2>
-<ol class="references">
-<li>UnitedHealth Group, 2025, <em>2024 Form 10-K</em>. <a href="https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm" target="_blank" rel="noopener noreferrer">SEC filing</a>.</li>
-<li>CrowdStrike, 2024, “Channel File 291 Incident: Root Cause Analysis Is Available.” <a href="https://www.crowdstrike.com/en-us/blog/channel-file-291-rca-available/" target="_blank" rel="noopener noreferrer">Company analysis</a>.</li>
-<li>Microsoft, 2024, “Helping Our Customers Through the CrowdStrike Outage.” <a href="https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/" target="_blank" rel="noopener noreferrer">Microsoft statement</a>.</li>
-<li>National Institute of Standards and Technology, 2024, <em>The NIST Cybersecurity Framework (CSF) 2.0</em>, NIST CSWP 29. <a href="https://doi.org/10.6028/NIST.CSWP.29">NIST publication</a>.</li>
-<li>National Institute of Standards and Technology, 2010, <em>Contingency Planning Guide for Federal Information Systems</em>, NIST SP 800-34 Rev. 1. <a href="https://doi.org/10.6028/NIST.SP.800-34r1">NIST publication</a>.</li>
-</ol>
-<p><a href="../index.html#research">← Back to Research &amp; Case Studies</a></p>
-</article></main>
-<footer class="site-footer"><div class="shell footer-layout"><span>© <span data-year>2026</span> Sridurga Chintalapudi</span><span>Engineering · Research · Resilience</span></div></footer><script src="../js/scripts.js" defer></script>
-</body></html>
+<footer class="site-footer"><div class="shell footer-layout"><span>© 2026 Sridurga Chintalapudi</span><span>Engineering · Research · Resilience</span></div></footer>
+</body>
+</html>
