@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 325" role="img" aria-labelledby="fig3title fig3desc">
+<style>
+.svg-label{font:600 15px Arial,sans-serif;fill:#243746}
+.svg-small{font:12px Arial,sans-serif;fill:#536578}
+.svg-title{font:700 18px Arial,sans-serif;fill:#243746}
+.svg-step{fill:#eff4f8;stroke:#98adba;stroke-width:1.5}
+.svg-warn{fill:#fff5eb;stroke:#cb8748;stroke-width:1.5}
+.svg-ok{fill:#edf7f2;stroke:#6f9e88;stroke-width:1.5}
+.svg-line{stroke:#688394;stroke-width:2;fill:none}
+</style>
+<title id="fig3title">Contrasting failure cascades for Change Healthcare and CrowdStrike</title>
+<desc id="fig3desc">Left chain depicts compromised access, security isolation and claims/payment disruption. Right chain depicts defective content update, crashing endpoints and dependent business disruption. Both converge on organizational continuity risk.</desc>
+<defs><marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
+<text x="13" y="24" class="svg-title">Different causes, common dependency exposure</text>
+<text x="190" y="52" text-anchor="middle" class="svg-label">Change Healthcare · cyber incident</text>
+<text x="550" y="52" text-anchor="middle" class="svg-label">CrowdStrike · update incident</text>
+<g transform="translate(23,67)"><rect class="svg-warn" width="332" height="51" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Compromised remote access</text><text x="166" y="38" text-anchor="middle" class="svg-small">Unauthorized entry / containment required</text></g>
+<g transform="translate(385,67)"><rect class="svg-warn" width="332" height="51" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Defective content update</text><text x="166" y="38" text-anchor="middle" class="svg-small">Validation and propagation failure</text></g>
+<g transform="translate(23,143)"><rect class="svg-step" width="332" height="52" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Affected critical systems isolated</text><text x="166" y="38" text-anchor="middle" class="svg-small">Processing connections interrupted</text></g>
+<g transform="translate(385,143)"><rect class="svg-step" width="332" height="52" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Windows systems crash</text><text x="166" y="38" text-anchor="middle" class="svg-small">Dependent services and operators disrupted</text></g>
+<g class="svg-line" marker-end="url(#arrow3)"><path d="M189 118 V139"/><path d="M551 118 V139"/><path d="M189 195 V225 H362 V238"/><path d="M551 195 V225 H378 V238"/></g>
+<rect class="svg-ok" x="127" y="239" width="486" height="51" rx="9"/>
+<text x="370" y="260" text-anchor="middle" class="svg-label">Organizational business-service interruption</text>
+<text x="370" y="277" text-anchor="middle" class="svg-small">Continuity, communication, recoverability and accountability</text>
+<text x="370" y="314" text-anchor="middle" class="svg-small">Conceptual comparison of reported incidents; not their internal technical topology</text>
+</svg>
