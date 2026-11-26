@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 180" role="img" aria-labelledby="fig1title fig1desc">
+<style>
+.svg-label{font:600 15px Arial,sans-serif;fill:#243746}
+.svg-small{font:12px Arial,sans-serif;fill:#536578}
+.svg-title{font:700 18px Arial,sans-serif;fill:#243746}
+.svg-step{fill:#eff4f8;stroke:#98adba;stroke-width:1.5}
+.svg-warn{fill:#fff5eb;stroke:#cb8748;stroke-width:1.5}
+.svg-ok{fill:#edf7f2;stroke:#6f9e88;stroke-width:1.5}
+.svg-line{stroke:#688394;stroke-width:2;fill:none}
+</style>
+<title id="fig1title">Five-stage analytical method</title><desc id="fig1desc">Define essential business service, map dependencies, compare disruption mechanisms, select measurable controls, and verify recovery and residual risk.</desc>
+<defs><marker id="arrow1" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
+<text x="16" y="23" class="svg-title">From failure evidence to an auditable resilience decision</text>
+<g transform="translate(10,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">01. Business</text><text x="66" y="43" text-anchor="middle" class="svg-small">Define service</text><text x="66" y="59" text-anchor="middle" class="svg-small">and impact</text></g>
+<g transform="translate(157,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">02. System</text><text x="66" y="43" text-anchor="middle" class="svg-small">Map shared</text><text x="66" y="59" text-anchor="middle" class="svg-small">dependencies</text></g>
+<g transform="translate(304,48)"><rect class="svg-warn" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">03. Failure</text><text x="66" y="43" text-anchor="middle" class="svg-small">Trace causes</text><text x="66" y="59" text-anchor="middle" class="svg-small">and propagation</text></g>
+<g transform="translate(451,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">04. Controls</text><text x="66" y="43" text-anchor="middle" class="svg-small">Define owner</text><text x="66" y="59" text-anchor="middle" class="svg-small">and acceptance test</text></g>
+<g transform="translate(598,48)"><rect class="svg-ok" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">05. Recovery</text><text x="66" y="43" text-anchor="middle" class="svg-small">Prove outcome</text><text x="66" y="59" text-anchor="middle" class="svg-small">and residual risk</text></g>
+<g class="svg-line" marker-end="url(#arrow1)"><path d="M142 87 H154"/><path d="M289 87 H301"/><path d="M436 87 H448"/><path d="M583 87 H595"/></g>
+<text x="370" y="160" text-anchor="middle" class="svg-small">Each step produces evidence for the next management decision</text>
+</svg>
