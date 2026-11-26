@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="EMGT 7310 organizational resilience capstone: an evidence-based case study comparing the 2024 Change Healthcare cyberattack and CrowdStrike outage.">
+<meta property="og:title" content="Organizational Resilience in Critical Digital Infrastructure | Sridurga Chintalapudi">
+<meta property="og:description" content="An Engineering Management case study of cascading risks, business continuity, and measurable controls.">
+<link rel="canonical" href="https://durgachintalapudi.github.io/case-studies/organizational-resilience.html">
+<link rel="stylesheet" href="../css/styles.css"><link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<title>Organizational Resilience Case Study | Sridurga Chintalapudi</title>
+<style>
+article{padding:45px 0 65px}.case-meta{font-size:14px;color:#555}.case-intro{font-size:19px;color:#444}
+article h2{margin-top:36px;border-top:1px solid #e5e5e5;padding-top:28px}
+article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-size:15px;margin:20px 0}
+.case-table th,.case-table td{text-align:left;vertical-align:top;border-bottom:1px solid #ddd;padding:12px 9px}
+.case-table th{background:#f7f7f7}article li{margin:8px 0}.references{font-size:14px;overflow-wrap:anywhere}
+@media(max-width:650px){.case-table{font-size:13px}.case-table th,.case-table td{padding:8px 5px}}
+</style>
+</head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="shell nav-wrap"><a class="brand" href="../index.html">Sridurga <span>Chintalapudi.</span></a><nav class="site-nav"><a href="../index.html#about">About</a><a href="../index.html#research">Research &amp; Case Studies</a><a href="../index.html#connect">Connect ↗</a></nav></div></header>
+<main id="main" class="shell"><article>
+<p class="section-label">Academic case study · Engineering Management · November 2026</p>
+<h1>Organizational Resilience in Critical Digital Infrastructure</h1>
+<p class="case-intro">A comparative analysis of the 2024 Change Healthcare cyberattack and CrowdStrike outage, exploring how interdependent technology failures create cascading business risks and what organizations should measure to verify meaningful recovery.</p>
+<p class="case-meta"><strong>Course:</strong> EMGT 7310, Risk Management and Resiliency Analysis<br>
+<strong>Institution:</strong> Texas State University<br>
+<strong>Project:</strong> Module 8 Capstone, Organizational Resiliency Plan<br>
+<strong>Author:</strong> Sridurga Chintalapudi<br>
+<strong>Classification:</strong> Academic coursework analysis, not peer-reviewed research</p>
+<h2>Executive summary</h2>
+<p>The Change Healthcare cyberattack and CrowdStrike software-content failure involved different initiating mechanisms, yet both demonstrated how concentrated technology dependencies can disrupt essential services. This case study compares the incidents through an Engineering Management lens: risk identification, preventive control design, business impact analysis, continuity planning, recovery governance, and residual risk. Its proposed organizational controls are analytical recommendations, not claims about verified improvements at either affected company.</p>
+<h2>1. The two incidents</h2>
+<h3>Change Healthcare: malicious compromise and service disruption</h3>
+<p>The February 2024 attack on Change Healthcare disrupted healthcare technology and payment-related functions. UnitedHealth Group reported approximately $2.223 billion in direct response costs for 2024 and separately reported $867 million in Optum Insight business disruption impacts. The company also estimated that approximately 190 million individuals were affected [1]. These are reported company-specific figures, not assumptions about a typical claims processor.</p>
+<h3>CrowdStrike: a defective update and widespread operational failures</h3>
+<p>On July 19, 2024, a defective CrowdStrike content update triggered widespread crashes on Windows systems. CrowdStrike published a root-cause analysis of the defect and validation process [2]. Microsoft estimated that 8.5 million Windows devices were affected [3]. Unlike the Change Healthcare incident, this failure originated from a software content change rather than an adversarial intrusion.</p>
+<table class="case-table"><thead><tr><th>Dimension</th><th>Change Healthcare</th><th>CrowdStrike</th></tr></thead><tbody>
+<tr><td>Initiating event</td><td>Cyberattack</td><td>Defective security-content update</td></tr>
+<tr><td>Risk concentration</td><td>Access controls and critical processing dependencies</td><td>Common software and deployment dependencies</td></tr>
+<tr><td>Principal mitigation priority</td><td>Access assurance, segmentation, independent continuity and protected recovery</td><td>Staged deployments, pre-release validation, rollback, and recovery capacity</td></tr>
+<tr><td>Shared lesson</td><td colspan="2">The recovery of underlying technology is not sufficient evidence that end-to-end business services are restored.</td></tr>
+</tbody></table>
+<h2>2. Risk assessment and dependency mapping</h2>
+<p>The capstone evaluates a <strong>hypothetical</strong> healthcare claims-processing operator. Its illustrative workflow connects provider intake, identity and access services, transaction validation, databases, payer-routing queues, acknowledgements, and reconciliation. A failure in a shared dependency can interrupt multiple steps simultaneously. The risk categories include cyber, operational change, supplier concentration, financial exposure, privacy, reputation, and continuity.</p>
+<p>A business impact analysis (BIA) should establish which functions require priority restoration, the maximum tolerable interruption, and acceptable data-loss limits. Recovery targets and cost assumptions should be validated against workload, contracts, and tested system behavior before informing investment decisions [4,5].</p>
+<h2>3. Proposed controls and evidence of effectiveness</h2>
+<table class="case-table"><thead><tr><th>Risk</th><th>Control</th><th>Effectiveness evidence</th></tr></thead><tbody>
+<tr><td>Privileged-access compromise</td><td>Phishing-resistant MFA and privileged-access inventory</td><td>Independently verified coverage, documented bypasses, corrective-action closure</td></tr>
+<tr><td>Unsafe software update</td><td>Canary rollout, staged deployment, rollback exercises</td><td>Observed canary results, rollback duration, controlled failure tests</td></tr>
+<tr><td>Essential intake unavailable</td><td>Independent priority intake with replay and reconciliation</td><td>Verified acceptance, durable queueing, replay, and complete transaction reconciliation</td></tr>
+<tr><td>Recovery path compromised</td><td>Protected backups and isolated clean restoration</td><td>Successful clean-room restoration against business-required RTO/RPO</td></tr>
+<tr><td>Shared supplier failure</td><td>Dependency maps, continuity exercises, defined escalation</td><td>Demonstrated service capacity and tracked unresolved dependency risks</td></tr>
+</tbody></table>
+<p>The controls address different failure mechanisms. Neither stronger identity protection nor safer update deployment by itself guarantees business continuity. Management should measure control effectiveness and compare recovery designs against recovery objectives, integrity requirements, financial costs, and residual exposure.</p>
+<h2>4. Recovery governance and communication</h2>
+<p>Incident leaders should communicate distinct states: service unavailable; accepting but queued; partially processing; and processing fully reconciled. This distinction prevents an “online” infrastructure status from being mistaken for verified customer-facing recovery.</p>
+<p>A <strong>business-required</strong> recovery time objective is distinct from <strong>observed</strong> recovery performance. If a recovery test misses the objective, management should record the exception, assign ownership, and determine whether further mitigation or explicit risk acceptance is necessary. Recovery should be verified through end-to-end transactions, not merely server health checks.</p>
+<h2>5. Sustainability and residual risk</h2>
+<p>Standby capacity, protected backups, alternate intake mechanisms, and frequent testing create operating, infrastructure, and environmental costs. A defensible organizational plan compares those burdens against continuity requirements using measured workloads rather than unsubstantiated universal ROI claims.</p>
+<p>Residual risk remains from shared defects affecting primary and standby systems, compromise of both production and recovery identities, prolonged third-party disruptions, and incomplete reconciliation after restart. These risks require continual review, exercises, and accountable owners.</p>
+<h2>6. Engineering Management takeaways</h2>
+<ul>
+<li><strong>Analyze dependencies, not just components.</strong> A single shared service can carry organization-wide consequences.</li>
+<li><strong>Separate prevention from continuity.</strong> Controls designed for ransomware are not substitutes for safe software-release practices, and vice versa.</li>
+<li><strong>Use evidence gates.</strong> Recovery declarations should depend on tested, auditable service outcomes.</li>
+<li><strong>Make residual risk explicit.</strong> The organization must decide how to handle missed recovery objectives and the cost of additional safeguards.</li>
+</ul>
+<p class="note">This page shares the public case-study component of completed academic coursework. It contains no unpublished doctoral hypotheses, agentic AI research proposal, or experimental design. The author did not participate in the incident investigations described here.</p>
+<h2>References</h2>
+<ol class="references">
+<li>UnitedHealth Group, 2025, <em>2024 Form 10-K</em>. <a href="https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm" target="_blank" rel="noopener noreferrer">SEC filing</a>.</li>
+<li>CrowdStrike, 2024, “Channel File 291 Incident: Root Cause Analysis Is Available.” <a href="https://www.crowdstrike.com/en-us/blog/channel-file-291-rca-available/" target="_blank" rel="noopener noreferrer">Company analysis</a>.</li>
+<li>Microsoft, 2024, “Helping Our Customers Through the CrowdStrike Outage.” <a href="https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/" target="_blank" rel="noopener noreferrer">Microsoft statement</a>.</li>
+<li>National Institute of Standards and Technology, 2024, <em>The NIST Cybersecurity Framework (CSF) 2.0</em>, NIST CSWP 29. <a href="https://doi.org/10.6028/NIST.CSWP.29">NIST publication</a>.</li>
+<li>National Institute of Standards and Technology, 2010, <em>Contingency Planning Guide for Federal Information Systems</em>, NIST SP 800-34 Rev. 1. <a href="https://doi.org/10.6028/NIST.SP.800-34r1">NIST publication</a>.</li>
+</ol>
+<p><a href="../index.html#research">← Back to Research &amp; Case Studies</a></p>
+</article></main>
+<footer class="site-footer"><div class="shell footer-layout"><span>© <span data-year>2026</span> Sridurga Chintalapudi</span><span>Engineering · Research · Resilience</span></div></footer><script src="../js/scripts.js" defer></script>
+</body></html>
