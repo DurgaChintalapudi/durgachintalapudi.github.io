@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 290" role="img" aria-labelledby="fig2title fig2desc">
+<style>
+.svg-label{font:600 15px Arial,sans-serif;fill:#243746}
+.svg-small{font:12px Arial,sans-serif;fill:#536578}
+.svg-title{font:700 18px Arial,sans-serif;fill:#243746}
+.svg-step{fill:#eff4f8;stroke:#98adba;stroke-width:1.5}
+.svg-warn{fill:#fff5eb;stroke:#cb8748;stroke-width:1.5}
+.svg-ok{fill:#edf7f2;stroke:#6f9e88;stroke-width:1.5}
+.svg-line{stroke:#688394;stroke-width:2;fill:none}
+</style>
+<title id="fig2title">Illustrative claims transaction flow and shared dependencies</title><desc id="fig2desc">Provider intake passes through API and identity, validation and transaction database, payer routing and acknowledgements, then reconciliation. Shared services underpin multiple steps.</desc>
+<defs><marker id="arrow2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
+<text x="12" y="24" class="svg-title">One claim relies on multiple systems and shared services</text>
+<g transform="translate(10,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Provider</text><text x="65" y="45" text-anchor="middle" class="svg-small">Submission</text></g>
+<g transform="translate(158,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">API + identity</text><text x="65" y="45" text-anchor="middle" class="svg-small">Access &amp; receipt</text></g>
+<g transform="translate(306,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Validate</text><text x="65" y="45" text-anchor="middle" class="svg-small">Store transaction</text></g>
+<g transform="translate(454,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Payer routing</text><text x="65" y="45" text-anchor="middle" class="svg-small">Queue &amp; response</text></g>
+<g transform="translate(602,49)"><rect class="svg-ok" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Reconcile</text><text x="65" y="45" text-anchor="middle" class="svg-small">Confirm outcome</text></g>
+<g class="svg-line" marker-end="url(#arrow2)"><path d="M140 82 H155"/><path d="M288 82 H303"/><path d="M436 82 H451"/><path d="M584 82 H599"/></g>
+<rect x="25" y="165" width="690" height="75" rx="10" fill="#fff5eb" stroke="#cb8748" stroke-width="1.5"/>
+<text x="370" y="188" text-anchor="middle" class="svg-label">Shared operational dependencies</text>
+<text x="370" y="209" text-anchor="middle" class="svg-small">DNS / Cloud / Identity provider / Database / Endpoint management / Vendor links</text>
+<text x="370" y="227" text-anchor="middle" class="svg-small">A common dependency can affect several workflow stages simultaneously</text>
+<g stroke="#cb8748" stroke-dasharray="5 5" stroke-width="1.5"><path d="M223 116 V162"/><path d="M371 116 V162"/><path d="M519 116 V162"/></g>
+<text x="370" y="270" text-anchor="middle" class="svg-small">Business success = completed, traceable, reconciled processing; not just reachable servers</text>
+</svg>
