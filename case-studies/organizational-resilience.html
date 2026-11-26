@@ -65,18 +65,7 @@ article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-
 <h2 class="case-section-heading" id="s3">3. What is the analysis method?</h2>
 <p>The study follows a management-oriented analysis sequence. Each step answers a different question. This is why the article proceeds from a business workflow to dependency failures, controls, recovery decisions, and residual risks.</p>
 <figure class="case-figure">
-<svg viewBox="0 0 740 180" role="img" aria-labelledby="fig1title fig1desc">
-<title id="fig1title">Five-stage analytical method</title><desc id="fig1desc">Define essential business service, map dependencies, compare disruption mechanisms, select measurable controls, and verify recovery and residual risk.</desc>
-<defs><marker id="arrow1" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
-<text x="16" y="23" class="svg-title">From failure evidence to an auditable resilience decision</text>
-<g transform="translate(10,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">01. Business</text><text x="66" y="43" text-anchor="middle" class="svg-small">Define service</text><text x="66" y="59" text-anchor="middle" class="svg-small">and impact</text></g>
-<g transform="translate(157,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">02. System</text><text x="66" y="43" text-anchor="middle" class="svg-small">Map shared</text><text x="66" y="59" text-anchor="middle" class="svg-small">dependencies</text></g>
-<g transform="translate(304,48)"><rect class="svg-warn" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">03. Failure</text><text x="66" y="43" text-anchor="middle" class="svg-small">Trace causes</text><text x="66" y="59" text-anchor="middle" class="svg-small">and propagation</text></g>
-<g transform="translate(451,48)"><rect class="svg-step" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">04. Controls</text><text x="66" y="43" text-anchor="middle" class="svg-small">Define owner</text><text x="66" y="59" text-anchor="middle" class="svg-small">and acceptance test</text></g>
-<g transform="translate(598,48)"><rect class="svg-ok" width="132" height="78" rx="9"/><text x="66" y="25" text-anchor="middle" class="svg-label">05. Recovery</text><text x="66" y="43" text-anchor="middle" class="svg-small">Prove outcome</text><text x="66" y="59" text-anchor="middle" class="svg-small">and residual risk</text></g>
-<g class="svg-line" marker-end="url(#arrow1)"><path d="M142 87 H154"/><path d="M289 87 H301"/><path d="M436 87 H448"/><path d="M583 87 H595"/></g>
-<text x="370" y="160" text-anchor="middle" class="svg-small">Each step produces evidence for the next management decision</text>
-</svg>
+<img src="figures/analysis-method.svg" alt="Diagram showing a five-stage resilience analysis process from business impact assessment through recovery verification." width="740" height="180" loading="lazy" decoding="async" style="display:block;width:100%;height:auto">
 <figcaption><strong>Figure 1.</strong> Analytical sequence used to structure the public case-study comparison. This is an author's synthesis of course concepts and NIST contingency planning guidance [4,5], not a model validated by experiments.</figcaption>
 </figure>
 <p>First, the business impact analysis (BIA) determines which activities are essential and their required recovery objectives. Second, a process map identifies the technical and third-party services necessary to perform those activities. Third, the two incidents show different ways those dependencies can be lost. Fourth, risk controls are specified with accountable owners and observable acceptance tests. Finally, leaders evaluate whether measured recovery meets the business objective and document unresolved risk.</p>
@@ -86,23 +75,7 @@ article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-
 <h2 class="case-section-heading" id="s4">4. The illustrative claims-processing workflow</h2>
 <p>For analytical clarity, the capstone uses a hypothetical healthcare claims technology organization. The workflow below is a <strong>conceptual example</strong> of an end-to-end transaction, not a reconstruction of Change Healthcare's internal architecture.</p>
 <figure class="case-figure">
-<svg viewBox="0 0 740 290" role="img" aria-labelledby="fig2title fig2desc">
-<title id="fig2title">Illustrative claims transaction flow and shared dependencies</title><desc id="fig2desc">Provider intake passes through API and identity, validation and transaction database, payer routing and acknowledgements, then reconciliation. Shared services underpin multiple steps.</desc>
-<defs><marker id="arrow2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
-<text x="12" y="24" class="svg-title">One claim relies on multiple systems and shared services</text>
-<g transform="translate(10,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Provider</text><text x="65" y="45" text-anchor="middle" class="svg-small">Submission</text></g>
-<g transform="translate(158,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">API + identity</text><text x="65" y="45" text-anchor="middle" class="svg-small">Access &amp; receipt</text></g>
-<g transform="translate(306,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Validate</text><text x="65" y="45" text-anchor="middle" class="svg-small">Store transaction</text></g>
-<g transform="translate(454,49)"><rect class="svg-step" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Payer routing</text><text x="65" y="45" text-anchor="middle" class="svg-small">Queue &amp; response</text></g>
-<g transform="translate(602,49)"><rect class="svg-ok" width="130" height="66" rx="8"/><text x="65" y="27" text-anchor="middle" class="svg-label">Reconcile</text><text x="65" y="45" text-anchor="middle" class="svg-small">Confirm outcome</text></g>
-<g class="svg-line" marker-end="url(#arrow2)"><path d="M140 82 H155"/><path d="M288 82 H303"/><path d="M436 82 H451"/><path d="M584 82 H599"/></g>
-<rect x="25" y="165" width="690" height="75" rx="10" fill="#fff5eb" stroke="#cb8748" stroke-width="1.5"/>
-<text x="370" y="188" text-anchor="middle" class="svg-label">Shared operational dependencies</text>
-<text x="370" y="209" text-anchor="middle" class="svg-small">DNS / Cloud / Identity provider / Database / Endpoint management / Vendor links</text>
-<text x="370" y="227" text-anchor="middle" class="svg-small">A common dependency can affect several workflow stages simultaneously</text>
-<g stroke="#cb8748" stroke-dasharray="5 5" stroke-width="1.5"><path d="M223 116 V162"/><path d="M371 116 V162"/><path d="M519 116 V162"/></g>
-<text x="370" y="270" text-anchor="middle" class="svg-small">Business success = completed, traceable, reconciled processing; not just reachable servers</text>
-</svg>
+<img src="figures/claims-workflow.svg" alt="Diagram of hypothetical healthcare claims processing, from provider submission through identity, validation, payer routing, and reconciliation, with shared dependencies." width="740" height="290" loading="lazy" decoding="async" style="display:block;width:100%;height:auto">
 <figcaption><strong>Figure 2.</strong> Hypothetical claims-processing dependency diagram. It clarifies which business outcome is being protected and how shared infrastructure creates correlated failure paths.</figcaption>
 </figure>
 <p><strong>Why this flow is necessary:</strong> It prevents the analysis from becoming a generic list of cybersecurity and resilience controls. Each proposed mitigation must protect a particular link or provide a tested alternative route for the business transaction. An independently available intake channel, for instance, may preserve acceptance of essential claims while downstream adjudication remains unavailable, but it must retain identifiers and support eventual reconciliation.</p>
@@ -111,23 +84,7 @@ article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-
 <section id="cascades" aria-labelledby="s5">
 <h2 class="case-section-heading" id="s5">5. The failure mechanisms: different triggers, similar cascading exposure</h2>
 <figure class="case-figure">
-<svg viewBox="0 0 740 325" role="img" aria-labelledby="fig3title fig3desc">
-<title id="fig3title">Contrasting failure cascades for Change Healthcare and CrowdStrike</title>
-<desc id="fig3desc">Left chain depicts compromised access, security isolation and claims/payment disruption. Right chain depicts defective content update, crashing endpoints and dependent business disruption. Both converge on organizational continuity risk.</desc>
-<defs><marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
-<text x="13" y="24" class="svg-title">Different causes, common dependency exposure</text>
-<text x="190" y="52" text-anchor="middle" class="svg-label">Change Healthcare · cyber incident</text>
-<text x="550" y="52" text-anchor="middle" class="svg-label">CrowdStrike · update incident</text>
-<g transform="translate(23,67)"><rect class="svg-warn" width="332" height="51" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Compromised remote access</text><text x="166" y="38" text-anchor="middle" class="svg-small">Unauthorized entry / containment required</text></g>
-<g transform="translate(385,67)"><rect class="svg-warn" width="332" height="51" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Defective content update</text><text x="166" y="38" text-anchor="middle" class="svg-small">Validation and propagation failure</text></g>
-<g transform="translate(23,143)"><rect class="svg-step" width="332" height="52" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Affected critical systems isolated</text><text x="166" y="38" text-anchor="middle" class="svg-small">Processing connections interrupted</text></g>
-<g transform="translate(385,143)"><rect class="svg-step" width="332" height="52" rx="8"/><text x="166" y="20" text-anchor="middle" class="svg-label">Windows systems crash</text><text x="166" y="38" text-anchor="middle" class="svg-small">Dependent services and operators disrupted</text></g>
-<g class="svg-line" marker-end="url(#arrow3)"><path d="M189 118 V139"/><path d="M551 118 V139"/><path d="M189 195 V225 H362 V238"/><path d="M551 195 V225 H378 V238"/></g>
-<rect class="svg-ok" x="127" y="239" width="486" height="51" rx="9"/>
-<text x="370" y="260" text-anchor="middle" class="svg-label">Organizational business-service interruption</text>
-<text x="370" y="277" text-anchor="middle" class="svg-small">Continuity, communication, recoverability and accountability</text>
-<text x="370" y="314" text-anchor="middle" class="svg-small">Conceptual comparison of reported incidents; not their internal technical topology</text>
-</svg>
+<img src="figures/failure-cascades.svg" alt="Two parallel causal chains comparing Change Healthcare cyber intrusion and CrowdStrike defective update, converging on business-service interruption." width="740" height="325" loading="lazy" decoding="async" style="display:block;width:100%;height:auto">
 <figcaption><strong>Figure 3.</strong> Simplified causal comparison. The first-stage mechanisms are based on public disclosures [1,2,6]. Downstream arrows summarize the <em>organizational exposure</em> analyzed by this case study rather than claiming a complete forensic sequence.</figcaption>
 </figure>
 <p>At Change Healthcare, public testimony describes entry through a remote access portal without multifactor authentication [6]. Identity protection and containment address this initiating scenario, but they do not automatically provide alternate claims-processing capacity. At CrowdStrike, the initiating event was an unintended content update. Strengthening authentication would not have prevented that particular defect; staged release controls and recovery processes are the more relevant safeguards [2].</p>
@@ -151,18 +108,7 @@ article h3{margin-top:22px}.case-table{border-collapse:collapse;width:100%;font-
 <h2 class="case-section-heading" id="s7">7. When is a service truly recovered?</h2>
 <p>The most important recovery distinction is between <strong>technical readiness</strong> and <strong>business readiness</strong>. The hypothetical operator should not report full restoration solely because its web endpoint returns success or its servers are running. A recovery decision should inspect actual transaction progress and data consistency.</p>
 <figure class="case-figure">
-<svg viewBox="0 0 740 208" role="img" aria-labelledby="fig4title fig4desc">
-<title id="fig4title">Business service recovery states and evidence</title><desc id="fig4desc">Recovery states progress from unavailable, to accepting but queued, to processing with degradation, to reconciled recovery. Each requires a different kind of business evidence.</desc>
-<defs><marker id="arrow4" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
-<text x="10" y="23" class="svg-title">Recovery is an evidence-based progression</text>
-<g transform="translate(8,46)"><rect class="svg-warn" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Unavailable</text><text x="85" y="46" text-anchor="middle" class="svg-small">No verified intake</text><text x="85" y="63" text-anchor="middle" class="svg-small">or processing</text></g>
-<g transform="translate(192,46)"><rect class="svg-step" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Accepting</text><text x="85" y="46" text-anchor="middle" class="svg-small">Durable queue</text><text x="85" y="63" text-anchor="middle" class="svg-small">and acknowledgement</text></g>
-<g transform="translate(376,46)"><rect class="svg-step" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Degraded</text><text x="85" y="46" text-anchor="middle" class="svg-small">Measured throughput</text><text x="85" y="63" text-anchor="middle" class="svg-small">and backlog age</text></g>
-<g transform="translate(560,46)"><rect class="svg-ok" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Reconciled</text><text x="85" y="46" text-anchor="middle" class="svg-small">Integrity verified</text><text x="85" y="63" text-anchor="middle" class="svg-small">and obligations met</text></g>
-<g class="svg-line" marker-end="url(#arrow4)"><path d="M178 84 H189"/><path d="M362 84 H373"/><path d="M546 84 H557"/></g>
-<text x="370" y="157" text-anchor="middle" class="svg-label">Decision gate: business-required RTO and RPO vs tested outcomes</text>
-<text x="370" y="178" text-anchor="middle" class="svg-small">Missed objective → logged exception, accountable owner, escalation / risk acceptance</text>
-</svg>
+<img src="figures/recovery-states.svg" alt="Four business recovery states: unavailable, accepting but queued, degraded, and fully reconciled." width="740" height="208" loading="lazy" decoding="async" style="display:block;width:100%;height:auto">
 <figcaption><strong>Figure 4.</strong> Proposed operational communication states for the hypothetical claims-processing service. This is a management assurance model, not an assertion that either incident followed these exact stages.</figcaption>
 </figure>
 <p>For example, if identity services and application servers recover but pending transactions still require replay, the service may be technically available yet only partially restored. The business impact analysis defines which functions must resume by what time. The recovery exercise measures what was actually achieved. When the observed recovery exceeds the required objective, management must decide whether to fund stronger controls, adopt a temporary workaround, or document an explicit exception [4,5].</p>
