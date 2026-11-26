@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 208" role="img" aria-labelledby="fig4title fig4desc">
+<style>
+.svg-label{font:600 15px Arial,sans-serif;fill:#243746}
+.svg-small{font:12px Arial,sans-serif;fill:#536578}
+.svg-title{font:700 18px Arial,sans-serif;fill:#243746}
+.svg-step{fill:#eff4f8;stroke:#98adba;stroke-width:1.5}
+.svg-warn{fill:#fff5eb;stroke:#cb8748;stroke-width:1.5}
+.svg-ok{fill:#edf7f2;stroke:#6f9e88;stroke-width:1.5}
+.svg-line{stroke:#688394;stroke-width:2;fill:none}
+</style>
+<title id="fig4title">Business service recovery states and evidence</title><desc id="fig4desc">Recovery states progress from unavailable, to accepting but queued, to processing with degradation, to reconciled recovery. Each requires a different kind of business evidence.</desc>
+<defs><marker id="arrow4" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#688394"/></marker></defs>
+<text x="10" y="23" class="svg-title">Recovery is an evidence-based progression</text>
+<g transform="translate(8,46)"><rect class="svg-warn" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Unavailable</text><text x="85" y="46" text-anchor="middle" class="svg-small">No verified intake</text><text x="85" y="63" text-anchor="middle" class="svg-small">or processing</text></g>
+<g transform="translate(192,46)"><rect class="svg-step" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Accepting</text><text x="85" y="46" text-anchor="middle" class="svg-small">Durable queue</text><text x="85" y="63" text-anchor="middle" class="svg-small">and acknowledgement</text></g>
+<g transform="translate(376,46)"><rect class="svg-step" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Degraded</text><text x="85" y="46" text-anchor="middle" class="svg-small">Measured throughput</text><text x="85" y="63" text-anchor="middle" class="svg-small">and backlog age</text></g>
+<g transform="translate(560,46)"><rect class="svg-ok" width="170" height="78" rx="8"/><text x="85" y="26" text-anchor="middle" class="svg-label">Reconciled</text><text x="85" y="46" text-anchor="middle" class="svg-small">Integrity verified</text><text x="85" y="63" text-anchor="middle" class="svg-small">and obligations met</text></g>
+<g class="svg-line" marker-end="url(#arrow4)"><path d="M178 84 H189"/><path d="M362 84 H373"/><path d="M546 84 H557"/></g>
+<text x="370" y="157" text-anchor="middle" class="svg-label">Decision gate: business-required RTO and RPO vs tested outcomes</text>
+<text x="370" y="178" text-anchor="middle" class="svg-small">Missed objective → logged exception, accountable owner, escalation / risk acceptance</text>
+</svg>
